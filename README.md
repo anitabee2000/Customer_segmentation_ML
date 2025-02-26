@@ -1,1 +1,2 @@
 A retail company wants to understand the spending behavior of its customers to target them with personalized marketing campaigns. They have collected data on customer demographics(age, gender)and spending habits (annual income, spending score)and want to segment their customers based on their spending behavior. This project aims to build a customer segmentation model to help the retail company in developing targeted marketing strategies.
+I applied unsupervised Machine Learning Models to enable accurate customer segmentation and understanding customer behaviour.
